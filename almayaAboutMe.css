@@ -1,0 +1,27 @@
+h1 {
+  color:#cc33ff;
+  font-size:20px;
+  font-family:Impact;
+}
+h2 {
+  color:#ff33ff;
+  font-size:30px;
+}
+h3{
+  color:purple;
+  font-size:35px;
+}
+h4{
+  color:#FA8072;
+  font-size:30px;
+}
+body{
+  background-color:#FFDAB9;
+}
+li{
+  font-family:Times;
+  font-size:20px;
+}
+p{
+  font-size:26px;
+}
